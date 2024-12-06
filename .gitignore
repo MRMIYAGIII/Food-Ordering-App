@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+build/
+dist/
+
+# Spring Boot
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log

@@ -1,0 +1,16 @@
+{
+    "app_name": "Foody",
+    "search_placeholder": "Search for meals or restaurants",
+    "auth_message": "Please log in or register to continue",
+    "top_meals": "Top Meals",
+    "handpicked_favorites": "Handpicked Favorites",
+    "orders": "Orders",
+    "favorites": "Favorites",
+    "address": "Address",
+    "payments": "Payments",
+    "notifications": "Notifications",
+    "events": "Events",
+    "admin_dashboard": "Admin Dashboard",
+    "logout": "Logout"
+  }
+  

@@ -1,0 +1,12 @@
+{
+  "name": "food-ordering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd Frontend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
