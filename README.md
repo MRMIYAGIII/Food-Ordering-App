@@ -105,6 +105,11 @@ POST /api/orders: Place a new order.
 GET /api/orders/{id}: Get details of an order by ID.
 POST /api/cart: Add an item to the cart.
 
+Afterwards, you have to create an account first to access the features of the App. You can see your orders by navigating to the profile icon on the top right of the Nav Bar.
+To access the dashboard, you have to be an admin.
+
 
 Contact
 For any issues or contributions, feel free to open an issue or send a pull request. You can also reach me at: pmugabo23@gmail.com.
+
+PLEASE IF SOME FUNCTIONALITIES ARE NOT WORKING WELL, RELOAD THE TAB FOR A BETTER SEAMLESS FUNCTIONSALITIES.
